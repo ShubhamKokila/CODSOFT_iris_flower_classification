@@ -1,0 +1,2 @@
+# CODSOFT_iris_flower_classification
+ This repository showcases an iris flower classification project that employs machine learning techniques to accurately classify iris flowers into different species based on their features. The primary objective of this project is to develop a robust classification model that can distinguish between different iris species using their sepal and petal measurements.
